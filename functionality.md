@@ -1,4 +1,10 @@
-## classroom
+## create my own community 
+- for me and my friends
+- for club or community
+
+## friends
+
+## classroom (college club / school club)
 - video call 
 - screen sharing
 - whiteboard
